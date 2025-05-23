@@ -1,9 +1,10 @@
-Este script permite scrapear información detallada de vehículos publicados en MercadoLibre Uruguay, ingresando a cada anuncio individual.
+Este script permite scrapear información detallada de vehículos publicados en MercadoLibre Uruguay, ingresando a cada anuncio individual. 
+Genera un .xlsx para importarlo en un excel con todos los vehiculos.
 
 ## ¿Que extrae?
 - Título
 - Precio
-- Ubicación real (ej. "Pocitos - Montevideo")
+- Ubicación 
 - Año
 - Kilometraje
 - Color
@@ -12,7 +13,7 @@ Este script permite scrapear información detallada de vehículos publicados en 
 - Transmisión
 - Fecha de publicación
 - Fecha del scraping
-- Enlace limpio
+- link
 
 ## Como usarlo
 
